@@ -1,2 +1,4 @@
-created
+created*
 edited 1
+edited 2
+in branch1
